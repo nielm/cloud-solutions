@@ -1,0 +1,5 @@
+handleGHRelease: true
+manifest: true
+manifestConfig: config/release-please-config.json
+manifestFile: config/release-please-manifest.json
+
