@@ -1,13 +1,6 @@
 {
   "packages": {
     "projects/pino-logging-gcp-config": {
-      "changelog-path": "projects/pino-logging-gcp-config/CHANGELOG.md",
-      "release-type": "node",
-      "bump-minor-pre-major": false,
-      "bump-patch-for-minor-pre-major": false,
-      "draft": false,
-      "prerelease": false,
-      "include-component-in-tag": true,
       "extra-files": [
         "src/pino_gcp_config.ts"
       ]
