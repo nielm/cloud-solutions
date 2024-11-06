@@ -13,6 +13,7 @@ errors with stack traces to
 
 ## Features
 
+-   uses "message" not "msg" for log message field.
 -   Converts Pino log levels to Google Cloud Logging log levels.
 -   Adds a millisecond-granularity timestamp in a
     [format recognised by Google Cloud Logging](https://cloud.google.com/logging/docs/agent/logging/configuration#timestamp-processing).
